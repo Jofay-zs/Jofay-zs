@@ -1,0 +1,37 @@
+# Jofay-zs
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jofay-zs&theme=radical&hide_border=true"/>
+</div>
+
+# About me
+👋 My name is Jofay Zhan Segura, I'm from Colombia. I'm a web developer, with knowledge in both front-end and back-end. Passionate about code, tech and always learning 😎. I like to develop projects, face challenges and share my knowledge. 😀
+
+# Currently I am
+- Developing my website, portfolio and blog.
+- 
+
+# Skills 🤹
+<div>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript" title="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Nodejs" title="Nodejs"/>
+    <svg width="50" height="50" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6.5 9.8c.733-2.934 2.567-4.4 5.5-4.4 4.4 0 4.951 3.3 7.151 3.85 1.467.367 2.75-.184 3.85-1.65-.732 2.933-2.566 4.4-5.5 4.4-4.4 0-4.95-3.3-7.15-3.85-1.468-.368-2.751.183-3.852 1.65zM.998 16.4c.733-2.933 2.567-4.4 5.5-4.4 4.401 0 4.95 3.3 7.152 3.85 1.466.368 2.75-.183 3.85-1.65-.734 2.934-2.567 4.4-5.5 4.4-4.401 0-4.951-3.3-7.152-3.85-1.466-.367-2.75.184-3.85 1.65z" style="fill:#4db6ac"/></svg>
+    <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="Graphql" title="Graphql"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" title="React"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+    <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/>
+<div>
+
+# Stats
+<div display="flex" position="flex" style="display:flex">
+<img src="https://activity-graph.herokuapp.com/graph?username=Jofay-zs&theme=redical&hide_border=true" style="width:50%; margin:0px 5px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jofay-zs&theme=radical&hide_border=true" style="width:50%; margin:0px 5px"/>
+</div>
+
+# Contact me
+<a href="https://twitter.com/Jofay_zs"><img title="@Jofay-zs" alt="@Jofay-zs" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+
+
+![](https://komarev.com/ghpvc/?username=Jofay-zs&color=red&style=flat-square)
