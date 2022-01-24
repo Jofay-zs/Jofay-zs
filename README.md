@@ -3,12 +3,32 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jofay-zs&theme=radical&hide_border=true"/>
 </div>
 
-# About me
-👋 My name is Jofay Zhan Segura, I'm from Colombia. I'm a web developer, with knowledge in both front-end and back-end. Passionate about code, tech and always learning 😎. I like to develop projects, face challenges and share my knowledge. 😀
-
-# Currently I am
-- Developing my website, portfolio and blog.
-- 
+<header>
+    <h1>About me</h1>
+    <section style="display:flex">
+        <div style="width:50%">
+            <p>
+                👋 My name is Jofay, I'm from Colombia. I'm a web developer, with knowledge in both front-end and back-end. Passionate about code, tech and always learning 😎. I like to develop projects, face challenges and share my knowledge. 😀
+            </p>
+        </div>
+        <div style="width:50%;border-left:solid 1px">
+            <ul>
+                <li>
+                    ⚒️ Creating my <a href="https://jofay-zs.netlify.app/">website, portfolio and blog</a>
+                </li>
+                <li>
+                    📌Planning some API consumption projects
+                </li>
+                <li>
+                    🏫Learning Web3
+                </li>
+                <li>
+                    🍄Improving my knowledge in Web development
+                </li>
+            </ul>
+        </div>
+    </section>
+</header>
 
 # Skills 🤹
 <div>
@@ -25,13 +45,14 @@
 <div>
 
 # Stats
-<div display="flex" position="flex" style="display:flex">
-<img src="https://activity-graph.herokuapp.com/graph?username=Jofay-zs&theme=redical&hide_border=true" style="width:50%; margin:0px 5px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Jofay-zs&theme=radical&hide_border=true" style="width:50%; margin:0px 5px"/>
+<div style="display:flex">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Jofay-zs&theme=redical&hide_border=true" style="width:50%; margin:0px 5px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jofay-zs&theme=radical&hide_border=true" style="width:50%; margin:0px 5px"/>
 </div>
 
-# Contact me
-<a href="https://twitter.com/Jofay_zs"><img title="@Jofay-zs" alt="@Jofay-zs" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-
+# Contact
+<a href="https://twitter.com/Jofay_zs"><img title="@Jofay's Twitter" alt="@Jofay's Twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/jofay-zs-174369217"><img src="https://img.icons8.com/color/48/000000/linkedin.png" title="@Jofay's Linkedin" alt="@Jofay's Linkedin"/></a>
+<a href="https://jofay-zs.netlify.app/"><img src="https://img.icons8.com/nolan/64/j.png" width="48px" title="@Jofay's Portfolio" alt="@Jofay's Portfolio"/></a>
 
 ![](https://komarev.com/ghpvc/?username=Jofay-zs&color=red&style=flat-square)
